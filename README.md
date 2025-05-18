@@ -1,35 +1,34 @@
 # 🏡 Airbnb Data Analysis
 
-This project was developed during my first semester in the Data Science program at the **University of New Haven**. The goal was to analyze Airbnb listings data and uncover patterns that influence pricing, availability, and listing performance.
+This project was developed at the **University of New Haven** to analyze Airbnb listings data and uncover patterns related to pricing, availability, and listing performance.
 
 ## 📁 Project Contents
 
-- `Airbnb Data.csv`: The main dataset containing Airbnb listing details such as location, price, availability, and more.
-- `Airbnb Data Analysis.ipynb`: The Jupyter Notebook used for data cleaning, exploration, and visualization.
-- `Airbnb Data Analysis PPT.pptx`: A visual presentation summarizing project objectives, methods, key insights, and conclusions.
+- `Airbnb Data.csv`: The primary dataset containing Airbnb listing information.
+- `Airbnb Data Analysis.ipynb`: Jupyter Notebook for data cleaning, analysis, and visualization.
+- `Airbnb Data Analysis PPT.pptx`: Presentation summarizing objectives, methods, findings, and insights.
 
 ## 🎯 Project Objectives
 
-- Understand trends and pricing dynamics in Airbnb listings.
-- Explore how factors like room type, location, and reviews impact prices.
-- Visualize the distribution and availability of listings.
-- Identify actionable insights that may help hosts optimize listings.
+- Analyze pricing trends and availability patterns.
+- Examine the influence of room type, location, and review count on listing price.
+- Identify insights that can help optimize listing strategies.
 
 ## 📊 Key Analysis Performed
 
-- **Data Cleaning**: Handled missing values and formatted relevant fields.
+- **Data Cleaning**: Handled missing values, formatted columns.
 - **Exploratory Data Analysis (EDA)**:
-  - Price distribution and outlier detection.
-  - Analysis of room types and their pricing patterns.
-  - Availability trends across listings.
-  - Relationship between number of reviews and listing popularity.
-- **Visualization**: Created charts and plots using Python libraries such as Matplotlib and Seaborn to communicate findings effectively.
+  - Price distribution and outliers
+  - Room type vs price comparison
+  - Availability patterns across listings
+  - Correlation between reviews and popularity
+- **Visualizations**: Plots and charts created using Python libraries to illustrate findings clearly.
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Python**: `pandas`, `numpy`, `matplotlib`, `seaborn`
 - **Jupyter Notebook**
-- **PowerPoint** (for presenting results)
+- **Microsoft PowerPoint**: For final presentation
 
 ## 📌 Insights & Learnings
 
@@ -37,9 +36,11 @@ This project was developed during my first semester in the Data Science program 
 - **Entire homes/apartments** had the highest average prices, while **shared rooms** were more affordable.
 - Some areas had **high density of listings** but varied widely in price depending on availability and room type.
 - Data quality and preprocessing significantly impacted the accuracy and depth of insights.
+- Visualization plays a critical role in uncovering patterns and supporting data-driven conclusions.
 
-## 🧠 Academic Context
+## 📄 License
 
-This project was a part of my coursework at the University of New Haven and reflects my early hands-on experience with data analysis using Python and Jupyter Notebooks.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
+
